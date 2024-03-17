@@ -1,0 +1,17 @@
+C:\Users\Dadasiek\source\repos\Witaju\obj\Debug\Witaju.csproj.AssemblyReference.cache
+C:\Users\Dadasiek\source\repos\Witaju\obj\Debug\Witaju.csproj.CoreCompileInputs.cache
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Witaju.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Witaju.pdb
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\0Harmony.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Rocket.API.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Rocket.Core.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\Rocket.Unturned.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\SDG.NetTransport.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Dadasiek\source\repos\Witaju\bin\Debug\UnityEngine.dll
+C:\Users\Dadasiek\source\repos\Witaju\obj\Debug\Witaju.csproj.CopyComplete
+C:\Users\Dadasiek\source\repos\Witaju\obj\Debug\Witaju.dll
+C:\Users\Dadasiek\source\repos\Witaju\obj\Debug\Witaju.pdb
